@@ -16,7 +16,7 @@ export default function Home() {
           />
         </div>
         <h3 className=" text-4xl font-bold mt-8 text-center">
-          I NOLEGGI 🎿 Direttamente sulle piste da sci
+          I NOLEGGI _ Direttamente sulle piste da sci
         </h3>
         <div className="mt-8 flex justify-between text-left w-[80%] text-xl">
           <div className="w-[60%]">
@@ -136,30 +136,30 @@ export default function Home() {
                   COMPLETO BAMBINO <br />
                   fino a mt.1,40{" "}
                 </td>
-                <td>€ 20,00</td>
                 <td>€ 15,00</td>
-                <td>€ 15,00</td>
+                <td></td>
+                <td></td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>
                   COMPLETO SNOWBOARD BAMBINO <br />
                   fino a mt.1,35{" "}
                 </td>
-                <td>€ 20,00</td>
                 <td>€ 15,00</td>
-                <td>€ 15,00</td>
+                <td></td>
+                <td></td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>
                   COMPLETO ADULTO <br /> SCI - SNOWBOARD{" "}
                 </td>
-                <td>€ 30,00</td>
                 <td>€ 25,00</td>
-                <td>€ 25,00</td>
+                <td>€ 20,00</td>
+                <td>€ 20,00</td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>COMPLETO RACE - FUN </td>
-                <td>€ 40,00</td>
+                <td>€ 35,00</td>
                 <td>€ 30,00</td>
                 <td>€ 30,00</td>
               </tr>
@@ -168,7 +168,7 @@ export default function Home() {
                   SCI BAMBINO <br />
                   fino a mt.1,40{" "}
                 </td>
-                <td>€ 15,00</td>
+                <td>€ 10,00</td>
                 <td></td>
                 <td></td>
               </tr>
@@ -177,25 +177,25 @@ export default function Home() {
                   SNOWBOARD BAMBINO <br />
                   fino a mt.1,35{" "}
                 </td>
-                <td>€ 15,00</td>
+                <td>€ 10,00</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>CIASPOLA - SCI DI FONDO </td>
                 <td>€ 15,00</td>
-                <td></td>
+                <td>€ 10,00</td>
                 <td></td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>SCI ADULTO - SNOWBOARD</td>
-                <td>€ 20,00</td>
+                <td>€ 15,00</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>SCI RACE - FUN</td>
-                <td>€ 30,00</td>
+                <td>€ 25,00</td>
                 <td>€ 20,00</td>
                 <td></td>
               </tr>
@@ -226,8 +226,8 @@ export default function Home() {
               <tr className="even:bg-amber-400 odd:bg-blue-100">
                 <td>SDRAIO</td>
                 <td>€ 5,00</td>
-                <td></td>
-                <td></td>
+                <td>€ 2,50</td>
+                <td>€ 2,50</td>
               </tr>
             </thead>
           </table>
@@ -240,7 +240,7 @@ export default function Home() {
                   <br />
                 </td>
                 <td width="20%">1 ORA</td>
-                <td width="20%"> € 15,00</td>
+                <td width="20%"> € 10,00</td>
                 <td width="20%"></td>
               </tr>
             </thead>
@@ -253,7 +253,7 @@ export default function Home() {
                   <strong>COMPLETO STAGIONALE BAMBINO SCI </strong>
                 </td>
                 <td>
-                  <strong>€ 120,00</strong>
+                  <strong>€ 99,00</strong>
                 </td>
               </tr>
               <tr className="even:bg-amber-400 odd:bg-blue-100">
@@ -269,7 +269,7 @@ export default function Home() {
                   <strong>COMPLETO STAGIONALE ADULTO SCI - SNOWBOARD</strong>
                 </td>
                 <td>
-                  <strong>€ 250,00</strong>
+                  <strong>€ 195,00</strong>
                 </td>
               </tr>
             </tbody>
